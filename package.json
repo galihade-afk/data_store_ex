@@ -1,5 +1,5 @@
 {
-  "name": "@galihade-afk/baileys-store",
+  "name": "@galihads/data_store_ex",
   "version": "1.0.0-beta.1",
   "description": "Minimal Baileys data storage for your favorite DBMS built with Prisma",
   "main": "dist/index.js",
